@@ -1,0 +1,9 @@
+sample;annotation
+aa;[(0, 2, 'O')]
+aala;[(0, 4, 'O')]
+aarcca;[(0, 6, 'O')]
+abon;[(0, 4, 'O')]
+abso;[(0, 4, 'B-BRAND')]
+abtoys игруш;[(0, 6, 'B-BRAND'), (7, 12, 'B-TYPE')]
+abtoys игрушк;[(0, 6, 'B-BRAND'), (7, 13, 'B-TYPE')]
+abtoys игрушки;[(0, 6, 'B-BRAND'), (7, 14, 'B-TYPE')]
